@@ -4,7 +4,7 @@ This project explores the impact of **homecourt advantage** in the NBA using his
 Our goal is to measure how factors like **fan presence, travel schedules, and game location** influence team performance.
 
 ## 📊 Features
-- Data collection from official NBA stats APIs and Kaggle datasets  
+- Data collection from official NBA stats, ESPN, APIs and Kaggle datasets  
 - Cleaning, preprocessing, and integration of multi-season data  
 - Statistical models (regression & hypothesis testing) to evaluate win probability  
 - Machine learning models to identify patterns in performance differences  
@@ -20,12 +20,14 @@ Our goal is to measure how factors like **fan presence, travel schedules, and ga
 ## 👥 Team
 This project was developed by our Capstone team at FAU:  
 - Isabela Cifuentes (Project Lead, Data Science)  
-- [Add your teammates + roles here]
+- Maximilian Nguyen (Data Engineer, Data Science)
+- Joshua Rasam (Data Analyst, Data Science)			
+- Kendall Mignerey (Statistician, Data Science)	
 
 ## 📈 Outcomes
 - Quantified **homecourt advantage pre- and post-COVID empty stadiums**  
 - Identified statistical significance of home vs away win differentials  
-- Produced dashboards and CSV datasets for reproducible research  
+- Produce a website and CSV datasets for reproducible research  
 
 ## 🚀 Future Work
 - Incorporate more advanced predictive models (XGBoost, Deep Learning)  
